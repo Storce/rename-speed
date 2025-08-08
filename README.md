@@ -1,4 +1,4 @@
-Spoiler: Python is faster when rename 10 files+, since the weight of the overhead in Python gets lower.
+Spoiler: Python is faster when renaming 10 files+, since the weight of the overhead in Python gets lower.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
